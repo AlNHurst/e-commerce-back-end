@@ -14,6 +14,8 @@
 The e-commerce backend is an application that can be used by retail managers to create, update, and delete data in their database. 
 
 ## Demonstration
+* VS Code Execution Demonstration
+![gif Demonstration](https://github.com/AlNHurst/e-commerce-back-end/blob/main/assets/ecommerce_vscode.gif)
 * Product Request Demonstration
 ![gif Demonstration](https://github.com/AlNHurst/e-commerce-back-end/blob/main/assets/ecommerce_product_requests.gif)
 * Category Request Demonstration
