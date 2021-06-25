@@ -14,10 +14,12 @@
 The e-commerce backend is an application that can be used by retail managers to create, update, and delete data in their database. 
 
 ## Demonstration
-* Video Demonstration
-![gif Demonstration]()
-* Image
-![Application image]()
+* Product Request Demonstration
+![gif Demonstration](https://github.com/AlNHurst/e-commerce-back-end/blob/main/assets/ecommerce_product_requests.gif)
+* Category Request Demonstration
+![gif Demonstration](https://github.com/AlNHurst/e-commerce-back-end/blob/main/assets/ecommerce_category_requests.gif)
+* Tag Request Demonstration
+![gif Demonstration](https://github.com/AlNHurst/e-commerce-back-end/blob/main/assets/ecommerce_tag_requests.gif)
 
 ## Installation
 *  The application will require the following dependencies: sequelizer, mysql2, dotenv, and express. Run 'npm i' to install the dependencies. Create an .env file with a DB_NAME, DB_USER, and DB_PASSWORD. 
